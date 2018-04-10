@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5d84c65e9e06dd8258c50a497c9878165d0c9f51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6c7980e4888ebdf97c03e2f5dfe979c5a254158">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e336f08a7ed665549b108db2745af052ac743b0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_5bdcee84c489745ba82cb4fc690c185ee240a38f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_3f707f2872dfa0aa7f55d303b60ab4fdfa4d4f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_03e26bff8d5e2679dc789db9bd9cc6ecf567e13e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_40e44d62149017bacaf5f95aeb0c03d69710060f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_cbfc513a4a145ff2d752140f090a82cfe0dba1ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_cc4c55372dd38972ee8b160d7667a08f73734d0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_46e25171c72c82eab667aa2169802c3715ca5974/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6f1ff435b5a4433ddd607efcae3d78a9f1de3051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_99d6ce1103553069765844ea68366854f8addc9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_6e4a06e49d2f16f0c661d547740846bac2c219b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb58484b10248cbf93dddee3d981d2e61f27f6e5">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.paolorotolo-appintro-3.3.0_6d8579604b8d69aa2705fe6729b59f3e9244e459/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_86553e59bb788c857bb00795b7cc1dc5c95ada54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_61bd3bf2397c0507aae33b05ee2a628d8481e4a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_785734dd7f0b60748685394697561252a3f8f895/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="852eb779edc400c2b7498388ee53b6d31b39f3f2">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4769d752b0e962fad30fcc64e30eb4a446021301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fahad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/fahad/Downloads/Douknw/F1Quiz/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_1f823ff116cb549f183ac6d64e85336c2b272d7e/classes.dex" />
+    </item>
+
+</items>

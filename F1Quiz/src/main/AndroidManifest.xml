@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="quizapp.wiss.com.douknw">
+    <uses-permission android:name="android.permission.VIBRATE"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/gk"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MyIntro"
+            android:theme="@style/FullscreenTheme" />
+        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".MainCategoryActivity"></activity>
+        <activity android:name=".QuizActivity"></activity>
+        <activity android:name=".Dialogbox"></activity>
+    </application>
+
+</manifest>
